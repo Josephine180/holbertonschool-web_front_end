@@ -368,7 +368,6 @@ ul.row {
 	background-color: var(--color-black);
 	--text-color: var(--color-white);
 	--section-title-color: var(--color-white);
-    --button-color: var(--color-white);
 }
 
 .footer-address {
@@ -412,4 +411,8 @@ ul.row {
     color: var(--button-hover-color);
     text-decoration: var(--button-hover-text-decoration);
     background-color: var(--button-hover-background);
+}
+
+[data-section-theme="dark"] {
+    --button-color: var(--color-white);
 }
