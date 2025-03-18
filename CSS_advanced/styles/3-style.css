@@ -1,34 +1,34 @@
-/* Apply first class and color */
+/* Déclaration variable */
 :root {
     --color-primary: #d73953;
     --color-black: #090909;
     --color-white: #ffffff;
     --color-light-grey: #f3f3f3;
-    --color-dark-frey: #353535;
+    --color-dark-grey: #353535;
     --text-color: var(--color-black);
 }
-
+/* scroll page */
 html {
     scroll-behavior: smooth;
 }
 
+/* color body */
 body {
-    color : var(--text-color);
+    color: var(--text-color);
 }
-
+/* for the link */
 a {
     color: var(--text-color);
 }
-
+/* all element class hidden */
 .visually-hidden {
     display: none;
 }
-
+/* all element class card-category */
 .card-category {
-    color : var(--color-primary);
+    color: var(--color-primary);
 }
-
+/*all element section-tagline */
 .section-tagline {
-    color : var(--color-primary);
+    color: var(--color-primary);
 }
-
