@@ -17,6 +17,7 @@
 /* scroll page */
 html {
     scroll-behavior: smooth;
+    font-size: 62,5%;
 }
 
 /* color body */
@@ -24,10 +25,6 @@ body {
     color: var(--text-color);
     font-family: var(--font-family-base);
     font-size: var(--font-size-medium);
-}
-
-html {
-    font-size: 62,5%;
 }
 
 h1, h2, h3, h4, h5, h6 {
