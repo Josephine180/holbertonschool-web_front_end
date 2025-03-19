@@ -512,7 +512,7 @@ ul.row {
 
 .card-work .card-image img {
     height: 30rem;
-    width: 100%
+    width: 100%;
     object-fit: cover;
     vertical-align: bottom;
 }
@@ -525,7 +525,7 @@ ul.row {
     z-index: 1;
 }
 .card-work:hover .card-inner {
-    background-color: rgba(0, 0, 0, 0.7)
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 .card-work .card-title {
