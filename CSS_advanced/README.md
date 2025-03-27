@@ -1,4 +1,4 @@
-      Project: Advanced CSS | Holberton Rennes, 
+# Project: Advanced CSS | Holberton Rennes, 
 
 Resources
 ---------
